@@ -1,4 +1,4 @@
-#Step 0. Downloading and unzipping dataset
+#Downloading and unzipping dataset
 
 if(!file.exists(".//data")){dir.create(".//data")}
 #Link for the dataset
